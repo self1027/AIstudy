@@ -41,13 +41,13 @@ Este repositório contém um código em C++ que implementa um **algoritmo simple
 1. Certifique-se de ter um compilador C++ instalado (ex.: `g++`).
 2. Compile o código usando o seguinte comando:
    ```bash
-   g++ -o rede_neural rede_neural.cpp
+   g++ -o main.cpp
    ```
 
 ### Execução
 Execute o programa gerado:
 ```bash
-./rede_neural
+./main
 ```
 ---
 
